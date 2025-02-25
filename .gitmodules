@@ -1,0 +1,8 @@
+[submodule "migolovina.github.io"]
+	path = migolovina.github.io
+	url = https://github.com/migolovina/migolovina.github.io.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/migolovina/migolovina.github.io.git
+	branch = main
