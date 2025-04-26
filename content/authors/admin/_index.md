@@ -34,18 +34,24 @@ profiles:
     url: 'mailto:1132246810@pfur.ru'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://elibrary.ru/author_info.asp?isold=1
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.mendeley.com/settings/account/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/migolovina
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=ru&user=f5hfiCcAAAAJ&scilu=&scisig=AC8hv-oAAAAAaATh3Zpo9Vs8PhGtOKDPoMcT-WI
   - icon: academicons/orcid
-    url: https://orcid.org/
-
+    url: https://orcid.org/0009-0004-6396-4621
+  - icon: at-symbol
+    url:  https://www.researchgate.net/profile/Maria-Golovina-4?ev=hdr_xprf&_sg=WgH6vmCQ860ZA81vrEtAyHy3zzr76C46iyYMydUMTghXbEkXBa9wYzB32D07xIE01mMUh7OAP-m04r9JDWibFIgY
+  - icon: brands/x
+    url: https://independent.academia.edu/МарияГоловина5
+  - icon: brands/instagram
+    url: https://arxiv.org/user/
+    
 interests:
   - Математика
   - Музыка
