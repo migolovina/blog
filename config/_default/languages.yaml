@@ -1,31 +1,32 @@
 en:
   languageName: English
-  weight: 1
+  weight: 2
   contentDir: content/en
   params:
     dateFormat: "January 2, 2006"
+    
   menu:
     main:
       - name: Bio
-        url: /
+        url: en/
         weight: 10
       - name: Papers
-        url: /#papers
+        url: en/#papers
         weight: 11
       - name: Talks
-        url: /#talks
+        url: en/#talks
         weight: 12
       - name: News
-        url: /#news
+        url: en/#news
         weight: 13
       - name: Experience
-        url: experience/
+        url: en/experience/
         weight: 20
       - name: Projects
-        url: projects/
+        url: en/projects/
         weight: 30
       - name: Teaching
-        url: teaching/
+        url: en/teaching/
         weight: 40
  
 ru:
@@ -38,23 +39,23 @@ ru:
   menu:
     main:
       - name: Биография
-        url: /
+        url: ru/
         weight: 10
       - name: Статьи
-        url: /#papers
+        url: ru/#papers
         weight: 11
       - name: Переговоры
-        url: /#talks
+        url: ru/#talks
         weight: 12
       - name: Новости
-        url: /#news
+        url: ru/#news
         weight: 13
       - name: Опыт
-        url: experience/
+        url: ru/experience/
         weight: 20
       - name: Проекты
-        url: projects/
+        url: ru/projects/
         weight: 30
       - name: Преподавание
-        url: teaching/
+        url: ru/teaching/
         weight: 40
