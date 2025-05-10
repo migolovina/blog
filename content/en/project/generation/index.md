@@ -1,7 +1,7 @@
 ---
 title: Secure Password Generator
 date: 2025-05-07
-external_link: https://github.com/migolovina/project
+external_link: https://github.com/migolovina/project-en
 tags:
   - Generation
   - Password
